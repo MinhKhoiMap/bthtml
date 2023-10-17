@@ -1,0 +1,12 @@
+#side-bar div:hover {
+  cursor: pointer;
+  background: #ccc;
+}
+
+#side-bar div.current {
+  background: #ccc;
+}
+
+img {
+  object-fit: contain;
+}
